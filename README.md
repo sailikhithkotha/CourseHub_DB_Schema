@@ -1,4 +1,4 @@
-# Designing and implementing a database schema for a course enrollment system using E/R Modelling and MySQL
+# Designing and implementing a database schema for a course enrolment system using E/R Modelling and MySQL
 
 User Management:
 1. Users can be of three types: Students, Professors, or Staff.
